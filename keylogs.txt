@@ -1,0 +1,24 @@
+2025-04-02 02:59:44,636 - Key c pressed
+2025-04-02 02:59:45,010 - Key a pressed
+2025-04-02 02:59:46,160 - Key f pressed
+2025-04-02 02:59:46,222 - Key a pressed
+2025-04-02 02:59:46,461 - Key e pressed
+2025-04-02 02:59:46,631 - Key f pressed
+2025-04-02 02:59:50,407 - Special key Key.space pressed
+2025-04-02 02:59:50,910 - Key h pressed
+2025-04-02 02:59:51,051 - Key e pressed
+2025-04-02 02:59:51,162 - Key y pressed
+2025-04-02 02:59:51,358 - Special key Key.space pressed
+2025-04-02 02:59:51,931 - Key h pressed
+2025-04-02 02:59:52,167 - Key o pressed
+2025-04-02 02:59:52,308 - Key w pressed
+2025-04-02 02:59:52,463 - Special key Key.space pressed
+2025-04-02 02:59:52,574 - Key a pressed
+2025-04-02 02:59:52,755 - Key r pressed
+2025-04-02 02:59:52,922 - Key e pressed
+2025-04-02 02:59:52,945 - Special key Key.space pressed
+2025-04-02 02:59:53,395 - Key y pressed
+2025-04-02 02:59:53,635 - Key o pressed
+2025-04-02 02:59:53,817 - Key u pressed
+2025-04-02 02:59:54,610 - Special key Key.enter pressed
+2025-04-02 02:59:57,867 - Special key Key.esc pressed
