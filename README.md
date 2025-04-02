@@ -26,7 +26,7 @@ pip install pynput
 
 Clone the Repository
 
-git clone https://github.com/yourusername/Key-Logger.git
+git clone https://github.com/WallaceScott240/Key-Logger.git
 cd Key-Logger
 
 Usage
